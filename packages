@@ -1,0 +1,8 @@
+i3 
+dunst 
+xbacklight 
+polybar 
+feh 
+#for xorg server
+picom
+policykit
